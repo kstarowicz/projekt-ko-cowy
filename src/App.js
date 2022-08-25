@@ -1,9 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 
 import Add from "./components/AddSection/AddSection";
 import MainPage from "./components/MainPage/MainPage";
