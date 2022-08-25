@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+li{
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.container-search{
+  height: auto;
+  width: 100vh;
+  list-style: none;
+  margin-bottom: -10vh;
+}
+
+.btn-remove-check-section {
+  width: 50px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: red;
+}
+
+.search-section-serial-number {
+  background-color: #c4c2c0;
+  height: 200px;
+  width: 150px;
+  padding: 20px;
+  border-radius: 30px;
+  text-decoration: none;
+  margin: 5px;
+
+}
+
+.list-search{
+  display: flex;
+  flex-direction: row;
+
+
+}
+.input-search {
+  margin-left: 45vw;
+  height: 30px;
+  width: 200px;
+  border-radius: 30px;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}

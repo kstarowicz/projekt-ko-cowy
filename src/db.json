@@ -1,0 +1,19 @@
+{
+  "number": [
+    {
+      "equipmentCategory": "phone",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "xs13",
+      "equipmentSerialNumber": "745499",
+      "id": 1
+    },
+    {
+      "equipmentCategory": "aaaa",
+      "equipmentBrand": "aaaa",
+      "equipmentModel": "aaaa",
+      "equipmentCheckbox": " nie skradziony",
+      "equipmentCheckbox1": " nie zgubiony",
+      "id": 2
+    }
+  ]
+}

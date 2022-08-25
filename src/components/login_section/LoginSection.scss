@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.login-section {
+  height: 80vh;
+}
+
+.login-container {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20vh;
+
+
+}
+
+.login-box {
+
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.password {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.input-password {
+  height: 30px;
+  width: 200px;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+
+.input-email {
+  height: 30px;
+  width: 200px;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+
+.create-account-button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 30px;
+  width: 120px;
+  background-color: gold;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+.lub {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-button {
+  margin-top: 15px;
+  height: 30px;
+  width: 120px;
+  background-color: gold;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+
+}

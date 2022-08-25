@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.container-about-me {
+  height: 80vh;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  padding-top:150px;
+  font-family: courgette, cursive;
+
+}

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container-add {
+  background-color: #eae7e5;
+  height: 80vh;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Courgette', cursive;
+  width: 80vw;
+  margin-left: 10vw;
+}
+
+
+
+.input-add {
+  height: 30px;
+  border-radius: 15px;
+  margin-left: 20px;
+  padding-left: 10px;
+}
+
+label {
+  padding-top: 10px;
+}
+
+.checkbox {
+  height: 15px;
+  width: 15px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.checkbox-lost {
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: gold;
+  width: 100px;
+  height: 30px;
+  font-size: 16px;
+  border-radius: 50px;
+
+
+}
+.btn-add-section {
+  margin-left: 350px;
+
+}
+
